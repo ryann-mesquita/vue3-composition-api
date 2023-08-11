@@ -1,0 +1,38 @@
+
+
+$defaultFont: "Open Sans", sans-serif;
+
+$background: rgb(230, 230, 230);
+
+body {
+    font-family: $defaultFont;
+    text-align: center;
+    background: $background;
+}
+
+ul li {
+    list-style: none;
+    background: #CCC;
+    padding: 10px;
+    margin: 8px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+ul li:hover {
+    background: #706f6f
+}
+
+a{
+    color: aliceblue;
+}
+
+i.fas {
+    margin: 0px 4px
+}
+
+input[type=text] {
+    width: 100%;
+    margin: 10px;
+    padding: 5px;
+}
