@@ -1,6 +1,8 @@
 # vue3-composition-api
 
-This template should help get you started developing with Vue 3 in Vite.
+This project is a MVP of "ToDo List of Tasks" that was developed using vue3 with composition API, this app consumes a API developed with a PHP framework (Laravel - 8.54). 
+
+In the app has a basic Crud that uses many vue functionalities.
 
 ## Recommended IDE Setup
 
