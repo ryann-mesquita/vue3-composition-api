@@ -1,6 +1,6 @@
 # vue3-composition-api
 
-This project is a MVP of "ToDo List of Tasks" that was developed using vue3 with composition API, this app consumes a API developed with a PHP framework (Laravel - 8.54). 
+This project is a MVP of "ToDo List of Tasks" that was developed using vue3 with composition API, this app consumes a API developed with a PHP framework (Laravel - 8.54) - https://github.com/ryann-mesquita/laravel8-to-do-list. 
 
 In the app has a basic Crud that uses many vue functionalities.
 
